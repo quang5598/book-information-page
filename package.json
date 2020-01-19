@@ -2,7 +2,6 @@
   "name": "library-management",
   "homepage": "https://quang5598.github.io/book-information-page",
   "version": "0.1.0",
-  "proxy": "http://localhost:8080",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.8.2",
