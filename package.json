@@ -1,0 +1,53 @@
+{
+  "name": "library-management",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.8.2",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "^4.0.0-alpha.38",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.4.1",
+    "googleapis": "^46.0.0",
+    "material-ui": "^0.20.2",
+    "mui-datatables": "^2.13.3",
+    "particles.js": "^2.0.0",
+    "react": "^16.12.0",
+    "react-device-detect": "^1.11.14",
+    "react-dom": "^16.12.0",
+    "react-ellipsify": "^0.6.2",
+    "react-fade-in": "^0.1.7",
+    "react-loading": "^2.0.3",
+    "react-loading-screen": "0.0.17",
+    "react-loadingg": "^1.6.2",
+    "react-lottie": "^1.2.3",
+    "react-particle-animation": "^1.0.1",
+    "react-scripts": "3.3.0",
+    "react-snowfall": "^1.0.2",
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.11.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

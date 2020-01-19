@@ -1,0 +1,37 @@
+.tooltip .onHover {
+	visibility: hidden;
+	 width: auto;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+}
+
+.tooltip {
+   
+}
+
+
+.box {
+	width: 300px;
+
+	padding: 50px;
+	margin: 20px;
+	display:inline-block;
+    white-space: wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+
+.container {
+	display:flex;
+	flex-wrap :wrap;
+	flex-direction: row;
+ }
+
+ .footer {
+    
+  
+}
+
