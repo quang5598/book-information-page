@@ -169,7 +169,7 @@ const Book =
 			<CardHeader
         avatar={
         	<Tooltip title={checkCategory(category)} placement="right">
-          <Avatar aria-label="recipe" className={classes.avatar}>
+          <Avatar  style={{backgroundColor: 'red'}}>
             {checkCategory(category).charAt(0)}
           </Avatar>
           </Tooltip>
