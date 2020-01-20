@@ -14,13 +14,10 @@
 
 .box {
 	width: 300px;
-
 	padding: 50px;
 	margin: 20px;
 	display:inline-block;
     white-space: wrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
     
 }
 

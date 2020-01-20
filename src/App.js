@@ -223,7 +223,7 @@ this.setState({maxComponent: 10,isReadMore:false})
       <Navigation route = {this.state.route} onRouteChange={this.onRouteChange}
                 name={this.state.user.name} filter ={this.onClickSetFilter}/>
         <MobileView>
-        <h2 style={{color: '#B22222'}}>Because the project is completed with React, 
+        <h2 style={{color: '#B22222'}}>Because the project is completed in React, 
         mobile users may not experience it well. Please use any browser on your computer for a better experience.
         This project will be developed on a mobile platform in the future!</h2>
         </MobileView>

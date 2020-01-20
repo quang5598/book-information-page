@@ -165,7 +165,7 @@ const Book =
 		<div className='tc grow br3 pa3 ma2 dib bw2 shadow-5 measure-narrow
 						   box'>
 			
-			<Box textOverflow="ellipsis" variant="h3">
+			<Box textOverflow="ellipsis">
 			<CardHeader
         avatar={
         	<Tooltip title={checkCategory(category)} placement="right">
