@@ -15,8 +15,7 @@
 .box {
 	width: 400px;
 	height: auto;
-	padding: 50px;
-	margin: 20px;
+
 	display:inline-block;
     white-space: wrap;
     
