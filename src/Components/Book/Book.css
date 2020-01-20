@@ -13,7 +13,8 @@
 
 
 .box {
-	width: 300px;
+	width: 400px;
+	height: auto;
 	padding: 50px;
 	margin: 20px;
 	display:inline-block;
