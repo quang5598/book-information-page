@@ -318,7 +318,7 @@ this.setState({maxComponent: 10,isReadMore:false})
       </div>
     } 
       <div style={{height:'150px'}}></div>
-      <div style={{ backgroundColor:'#ea8689'}}>
+      <div style={{ backgroundColor:'#f7797d'}}>
       <Footer isLoading={this.state.isLoading}/></div>
       </div> 
    
