@@ -260,7 +260,7 @@ this.setState({maxComponent: 10,isReadMore:false})
         </div>
         :
         <div>
-        <Grid container item={true} spacing={2}>
+        <Grid container item={true}>
       <Grid xs={3} item={true} >
       <Hidden smDown>
       <CheckBox categories={this.state.categories}

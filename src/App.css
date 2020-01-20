@@ -4,8 +4,8 @@
 }
 
 .wrapper {
-    width: 80em;
-    max-width: calc(100% - 4em);
+    width: 100em;
+    max-width: calc(100% - 10em);
     margin: 0 auto;
   }
   .main {
