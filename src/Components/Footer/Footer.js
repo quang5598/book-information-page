@@ -12,7 +12,7 @@ const Footer = ({isLoading})=>{
 		<p className='ttu' style={{padding:'30px', fontWeight:'1000'}}>
         About the project
       </p>
-      <div style={{fontWeight:'500',textAlign:'left'}} className='white'>
+      <div style={{fontWeight:'500',textAlign:'left',paddingLeft:'10px'}} className='white'>
       <p style={{textIndent:'30px'}}>
         Book Information Page is built on a Javascript library called React.
      The page will fetch information from the Google Books APIs to retrieve book information
