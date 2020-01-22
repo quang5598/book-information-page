@@ -181,6 +181,7 @@ this.setState({maxComponent: 10,isReadMore:false})
   }
   // fetch the information when the page first loaded
   componentDidMount(){
+    document.title='Book Information'
     this.fetchAPI(this.state.searchfield);
     this.setState({isLoading: false})
   }
