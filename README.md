@@ -16,4 +16,5 @@ Book Information Page allows users to search for books and view their informatio
 2. Run npm install
 3. Run npm start
 
-![Book Information Page](https://imgur.com/OrEU5TW)
+![Alt text](https://imgur.com/OrEU5TW "Book Information Page")
+
