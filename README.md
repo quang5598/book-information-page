@@ -13,7 +13,7 @@ Book Information Page allows users to search for books and view their informatio
 ## Getting Started
 
 1. Clone this repo
-2. Run npm install
-3. Run npm start
+2. Run `npm` install
+3. Run `npm` start
 
 
